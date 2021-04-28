@@ -11,4 +11,4 @@ Avec cours CSS/SASS Openclassrooms :
 
 #### Source & tuto --> From Scratch - Développement Web
 
-# \*https://www.youtube.com/watch?v=JjrdWtT_Vic&list=PLEiMYEzpB4QvFzUe2KPVgJ0EInbNbt1rH&index=10
+#### https://www.youtube.com/watch?v=JjrdWtT_Vic&list=PLEiMYEzpB4QvFzUe2KPVgJ0EInbNbt1rH&index=10
